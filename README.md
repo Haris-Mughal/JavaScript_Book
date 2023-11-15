@@ -70,7 +70,7 @@
 66. The DOM: Attribute names and values
 67. The DOM: Adding nodes
 68. The DOM: Inserting nodes
-69. Objects
+69. Objects 
 70. Objects: Properties
 71. Objects: Methods
 72. Objects: Constructors
