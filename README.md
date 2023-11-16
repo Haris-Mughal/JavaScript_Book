@@ -1,6 +1,6 @@
 # JavaScript_Book
 
-## Including Chapters in Book
+## Including Chapters
 
 1. Alerts
 2. Variables for Strings
