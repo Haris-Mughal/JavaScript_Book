@@ -2,7 +2,7 @@
 
 ## Including Chapters in Book
 
-1. Alert
+1. Alerts
 2. Variables for Strings
 3. Variables for Numbers
 4. Variable Names Legal and Illegal
